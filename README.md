@@ -15,5 +15,5 @@ It finds the change set using utility methods in GitGutter and then uses the `--
 
 ## How does this even work?
 
-You need to install [GitGutter](https://github.com/jisaacks/GitGutter) and [Python PEP8 Autoformat](https://bitbucket.org/StephaneBunel/pythonpep8autoformat/src). Yes, I know that isn't ideal and in a future version, I'd like this project to be completely standalone. I hope to get to that when I have some free time. (Contributions welcome)
+You need to install [GitGutter](https://github.com/jisaacks/GitGutter) and [Python PEP8 Autoformat](https://bitbucket.org/StephaneBunel/pythonpep8autoformat/src). Yes, I know that isn't ideal and in a future version, I'd like this project to be completely standalone. I hope to get to that when I have some free time (Contributions welcome). Until then, this project will stand on the shoulders of these giants. It would not have been possible without them. 
 
